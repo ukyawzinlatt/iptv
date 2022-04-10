@@ -54,7 +54,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/79?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 17
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/80?
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",é¦™æ¸¯å¼€ç”µè§† / HKSTV-HKS
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
