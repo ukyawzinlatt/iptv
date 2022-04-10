@@ -1,1 +1,134 @@
 
+#EXTM3U
+#EXTINF:0 ,MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:0 ,MRTV 4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1,MWD 
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1,MWD Variety 
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1,Movie HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1,Documentry HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,Series HD 
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1,Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1,Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1group-title="MYN",MAHAR
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1group-title="MYN",MVM
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+#EXTINF:-1group-title="MYN",MAHABAWDI
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1group-title="MYN",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1group-title="MYN",Channel 7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Outdoor",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="SG" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="Undefined",CNA
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8?
+#EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
+http://new-pro.tv:8080/Fernando/123321/302555?
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 2
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/73?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 3
+http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 4
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/74?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 11
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/77?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 12
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/78?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 13
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 15
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/79?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 17
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/80?
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",é¦™æ¸¯å¼€ç”µè§† / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FashionTV WORLD
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8?
+#EXTINF:0 tvg-country="US" tvg-logo="https://wfc.tv/images/Logo-WF.png" group-title="Lifestyle",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8?
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="Shop",Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8?
+#EXTINF:0 tvg-country="NZ" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png" group-title="Shop;Undefined",TVNZ Shopping,TVSN Shopping
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="Documentary",CGTN Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/71954.ts?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1052?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1053?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3
+http://stariptv.org:8080/hakim2021/123456/59132?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1055?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 5
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFMMooPVyx_QAxchW_ChOQk?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 6
+http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9701?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Eurosport
+http://185.204.32.4:9981/stream/channelid/577840136?ticket=6BD731AAAAF62A0FC6B42210FD1752C29F939C80&profile=pass&
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/antony/1234/148.ts?
+#EXTINF:-1group-title="Movies",Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN STAR MOVIES
+http://stariptv.org:8080/wael2021/123456/100369?
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: STAR MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55956?
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Undefined",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8?
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
+https://ft-ifood-roku.amagi.tv/playlist.m3u8?
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Food TV
+http://new-pro.tv:8080/Fernando/123321/175304?
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD
+http://cdn99.one:80/356195/FgHq4u/71932.ts?
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD 2
+http://cdn99.one:80/356195/FgHq4u/71933.ts?
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
+http://78.83.191.18:8000/play/a03o?
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV CLASSIC
+http://mains.services:2086/kixy2030/u8zC9nvB69/100027?
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Hits
+http://stariptv.org:8080/hakim2021/123456/9369?
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Rocks
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/743?
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
+http://stariptv.org:8080/hakim2021/123456/148483?
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?
+#EXTINF:-1group-title="MYN",Thraith(3D)
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Undefined",Thai PBS (Opt-4)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
+http://news1.live14.com/stream/news1_hi.m3u8?
