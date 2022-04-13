@@ -27,6 +27,8 @@ https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southea
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1group-title="MYN",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1group-title="MYN",VOA Myanmar
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Outdoor",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="SG" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="Undefined",CNA
@@ -43,6 +45,8 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/73?
 http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 4
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/74?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 7
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/75?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 11
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/77?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 12
