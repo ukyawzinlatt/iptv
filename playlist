@@ -47,8 +47,6 @@ http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSession
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/74?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 7
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/75?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 11
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/77?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 12
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/78?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 13
@@ -115,14 +113,8 @@ http://cdn99.one:80/356195/FgHq4u/71932.ts?
 http://cdn99.one:80/356195/FgHq4u/71933.ts?
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
 http://78.83.191.18:8000/play/a03o?
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV CLASSIC
-http://mains.services:2086/kixy2030/u8zC9nvB69/100027?
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Hits
-http://stariptv.org:8080/hakim2021/123456/9369?
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Rocks
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/743?
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV
-http://stariptv.org:8080/hakim2021/123456/148483?
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?
 #EXTINF:-1group-title="MYN",Thraith(3D)
