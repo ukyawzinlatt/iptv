@@ -93,8 +93,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8?
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Food TV
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/144598?
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://elattar-tv.org:8080/LUCKYG/22376727484869/67696?
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
 http://78.83.191.18:8000/play/a03o?
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
