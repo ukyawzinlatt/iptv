@@ -28,7 +28,7 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1group-title="MYN",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1group-title="MYN",VOA Myanmar
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
+#https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Outdoor",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="SG" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="Undefined",CNA
@@ -36,7 +36,7 @@ https://i.mjh.nz/au/Sydney/tv.cna.m3u8?
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://new-pro.tv:8080/Fernando/123321/302555?
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32474?
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 2
@@ -64,9 +64,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8?
 #EXTINF:0 tvg-country="US" tvg-logo="https://wfc.tv/images/Logo-WF.png" group-title="Lifestyle",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8?
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="Shop",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8?
-#EXTINF:0 tvg-country="NZ" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png" group-title="Shop;Undefined",TVNZ Shopping,TVSN Shopping
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8?
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
@@ -75,22 +73,20 @@ http://live.cgtn.com/1000/prog_index.m3u8?
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/71954.ts?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1052?
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/276567?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 2
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1053?
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/277925?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1054?
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227594?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKr_fyNRLWZq5AewUVC2Rzo?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Eurosport
-http://185.204.32.4:9981/stream/channelid/577840136?ticket=6BD731AAAAF62A0FC6B42210FD1752C29F939C80&profile=pass&
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
-http://168.205.87.198:8555/live/antony/1234/148.ts?
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3130?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/277926?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 6
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/211449?
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 7
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/211450?
 #EXTINF:-1group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Undefined",TMZ
@@ -98,15 +94,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Food TV
-http://new-pro.tv:8080/Fernando/123321/175304?
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD
-http://cdn99.one:80/356195/FgHq4u/71932.ts?
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD 2
-http://cdn99.one:80/356195/FgHq4u/71933.ts?
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/144598?
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
 http://78.83.191.18:8000/play/a03o?
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Rocks
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/743?
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?
 #EXTINF:-1group-title="MYN",Thraith(3D)
