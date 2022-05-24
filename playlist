@@ -74,19 +74,11 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/276567?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 2
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/277925?
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36817?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/227594?
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36819?
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3130?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 5
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/277926?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 6
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/211449?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 7
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/211450?
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36820?
 #EXTINF:-1group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Undefined",TMZ
