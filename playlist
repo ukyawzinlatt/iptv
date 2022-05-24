@@ -73,12 +73,6 @@ http://live.cgtn.com/1000/prog_index.m3u8?
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 1
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36817?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 3
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36819?
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SUPER SPORT 4
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36820?
 #EXTINF:-1group-title="Movies",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Undefined",TMZ
@@ -101,3 +95,57 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
 http://news1.live14.com/stream/news1_hi.m3u8?
+#EXTINF:-1,AR| beIN Sports PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/1
+#EXTINF:-1,AR| beIN Sports PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/2
+#EXTINF:-1,AR| beIN Sports PREMIUM 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/3
+#EXTINF:-1,AR| beIN Sports 1HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/4
+#EXTINF:-1,AR| beIN Sports 2HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/5
+#EXTINF:-1,AR| beIN Sports 3HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/6
+#EXTINF:-1,AR| beIN Sports 4HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/7
+#EXTINF:-1,AR| beIN Sports 5HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/8
+#EXTINF:-1,beIN Sports PREMIUM SD1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/9
+#EXTINF:-1,beIN Sports PREMIUM SD2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/10
+#EXTINF:-1,beIN Sports PREMIUM SD3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/11
+#EXTINF:-1,beIN Sports SD1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/12
+#EXTINF:-1,beIN Sports SD2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/13
+#EXTINF:-1,beIN Sports SD3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/14
+#EXTINF:-1,beIN Sports SD4
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/15
+#EXTINF:-1,beIN Sports SD5
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/16
+#EXTINF:-1,[EG] ON Sport
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/17
+#EXTINF:-1,[EG] ON Sport 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://146.0.32.163:25461/Qwrqwr/Qwer/18
