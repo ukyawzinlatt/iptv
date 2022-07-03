@@ -80,9 +80,15 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOOD NETWORK
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67696?
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137215?
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP Food Network
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/398493?
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Food Network  +1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209251?
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
 http://78.83.191.18:8000/play/a03o?
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",UFC Fight Pass HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377052?
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?
 #EXTINF:-1group-title="MYN",Thraith(3D)
@@ -93,5 +99,4 @@ http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
-#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
-http://news1.live14.com/stream/news1_hi.m3u8?
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News
